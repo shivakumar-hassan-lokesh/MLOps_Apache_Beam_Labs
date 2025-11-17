@@ -12,10 +12,8 @@ This lab demonstrates a simple **WordCount pipeline** using **Apache Beam (Pytho
 
 ## Project Structure
 .
-├── data/
-│   └── alice_large.txt          # Input text file
-├── outputs/                     # Generated output directory
-│   └── part-00000-of-00001.txt  # Word count results
+├── alice_large.txt
+├── part-00000-of-00001.txt
 ├── Try_Apache_Beam_Python.ipynb
 └── README.md
 
