@@ -32,15 +32,20 @@ This lab demonstrates a simple **WordCount pipeline** using **Apache Beam (Pytho
 ## Example Output
 
 ('CHAPTER', 200)
+
 ('ALICE', 160)
+
 ('RABBIT', 90)
+
 ...
 
 
 ## Technologies Used
 
 Python 3
+
 Apache Beam (DirectRunner)
+
 Jupyter Notebook
 
 
