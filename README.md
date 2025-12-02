@@ -1,6 +1,6 @@
 # Apache Beam Lab
 
-This lab demonstrates a simple **WordCount pipeline** using **Apache Beam (Python SDK)**. The notebook reads a text file (`alice_large.txt`) located in the `data/` folder, extracts and counts words, and saves the output as a `.txt` file inside the `outputs/` directory.
+- This lab demonstrates a simple **WordCount pipeline** using **Apache Beam (Python SDK)**. The notebook reads a text file (`alice_large.txt`) located in the `data/` folder, extracts and counts words, and saves the output as a `.txt` file inside the `outputs/` directory.
 
 ## Features
 - Apache Beam **DirectRunner**
@@ -38,13 +38,12 @@ This lab demonstrates a simple **WordCount pipeline** using **Apache Beam (Pytho
 
 ...
 
-
 ## Technologies Used
 
-Python 3
+- Python 3
 
-Apache Beam (DirectRunner)
+- Apache Beam (DirectRunner)
 
-Jupyter Notebook
+- Jupyter Notebook
 
 
