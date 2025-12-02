@@ -11,11 +11,12 @@ This lab demonstrates a simple **WordCount pipeline** using **Apache Beam (Pytho
 - Result saved as a `.txt` file in `outputs/`
 
 ## Project Structure
-.
+```
 ├── alice_large.txt
 ├── part-00000-of-00001.txt
 ├── Try_Apache_Beam_Python.ipynb
 └── README.md
+```
 
 ## How to Run the Lab
 
